@@ -1,6 +1,13 @@
 {
   "name": "price-currency",
+  "description": "An currency price viewer using Vue JS and Awesome API / Um visualizador de cotações de preços usando Vue JS e Awesome API.",
   "version": "0.1.0",
+  "author": {
+    "name": "Daniel Vitor Silva Moreira",
+    "email": "contato.danielsmoreira@gmail.com",
+    "url": "https://linkedin.com/in/danielvitorsm"
+  },
+  "license": "MIT",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -8,12 +15,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue": "^2.6.11"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-plugin-typescript": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "typescript": "~4.1.5",
