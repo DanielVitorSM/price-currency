@@ -1,19 +1,17 @@
-# price-currency
+# Price Currency
+An currency price viewer using Vue JS and Awesome API / Um visualizador de cotações de preços usando Vue JS e Awesome API.
 
-## Project setup
+## Project setup / Instalação
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Development Server / Servidor de Desenvolvimento
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compiles for Production / Compilar para produção
 ```
 yarn build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
